@@ -1,0 +1,5 @@
+publisher:
+        github:
+            type: hyde.ext.publishers.dvcs.Git
+            path: ../MyBlog.github.com
+            url: git@github.com:hyde/MyBlog.github.com.git

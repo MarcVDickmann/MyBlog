@@ -1,0 +1,9 @@
+---
+title: A basic blog
+extends: listing.j2
+default_block: test
+listable: false
+---
+<div id="Text" style="float: left; width: 200px; padding-top: 100px; color: #9B8B73;">
+<p>Dies ist meine Test Seite hier teste ich sachen aus.</p>
+</div>
